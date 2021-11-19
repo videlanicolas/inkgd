@@ -2,13 +2,14 @@ Inkgd: Ink for Godot – *main* branch
 ======================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Getting started
    
-   getting_started/index
+   getting_started/introduction/index
+   getting_started/first_game/index
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Class reference
    
    classes/index
